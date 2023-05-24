@@ -4,7 +4,7 @@ import moon1 from './moon1.svg';
 import sun from './sun.svg';
 import emoji from './Emoji.svg'
 import resume from './devResume.pdf'
-import hero from './hero.gif';
+import hero from './hero.png';
 import divider from './divider.png';
 import html from './html.svg';
 import css from './css.svg';
